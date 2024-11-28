@@ -1,4 +1,5 @@
 # 🌟 Weather App with Interactive Particle Background
+### Sebastian Varon - 101394889 - Lab Test 2 COMP3123
 
 ## 📝 Description
 
